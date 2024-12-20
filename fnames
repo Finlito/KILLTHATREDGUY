@@ -16,6 +16,7 @@ gxc_resume_movie_recording()
 gxc_record_input_playback(devices)
 gxc_save_input_playback(filename)
 gxc_input_playback(filename)
+gxc_file_sync([callback],...)
 
 
 gxc_input_record_mouse#
