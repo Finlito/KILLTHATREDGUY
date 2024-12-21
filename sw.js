@@ -6,8 +6,7 @@ const CACHE_FILES = ["runner.data",
 "runner.js",
 "runner.wasm",
 "audio-worklet.js",
-"game.unx",
-"options.ini"
+"game.unx"
 ];
 
 self.addEventListener("fetch", (event) => {
